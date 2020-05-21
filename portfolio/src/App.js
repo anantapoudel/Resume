@@ -18,14 +18,12 @@ function App() {
     <Router>
     <div>
       <Home></Home>
-      <button> + </button>
-      <p>0</p>
       
 
 
 
       
-      <center> <b> <h3> Ananta Poudel</h3></b></center>
+      <center> <b> <h3> Ananta Poudel </h3></b></center>
       <center> <p> Kalamazoo, Michigan 49007  | ananta.poudel@wmich.edu | +1(269) 366-9387</p></center>
       <hr></hr>
       <h4> &nbsp;&nbsp;Objective</h4>
