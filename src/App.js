@@ -20,9 +20,6 @@ function App() {
       <Home></Home>
       <button> + </button>
       <p>0</p>
-      
-
-
 
       
       <center> <b> <h3> Ananta Poudel</h3></b></center>
